@@ -1,5 +1,5 @@
 # PyQt-Calculator
-####Сalculator with GUI interface
+#### Сalculator with GUI interface
 
 Пакет является тестовым проектом для работы с GUI. И графическая составляющая написанна с 
 помощью PyQt5 расположенная в файле menu.py.
